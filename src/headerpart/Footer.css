@@ -1,0 +1,127 @@
+.footer{
+    height: 60px;
+    width: 100%;
+    border: 2px solid;
+    background-color:black;
+    position: absolute;
+    bottom: 10px;
+}
+.big{
+    height: 40px;
+    width: 200px;
+    border: 2px solid white;
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.box1{
+    height: 40px;
+    width: 30px;
+    border: 1px solid white;
+    
+}
+.img{
+    height: 30px;
+    width: 20px;
+    margin-top: 5px;
+    margin-left: 4px;
+}
+.box2{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    margin-top: -42px;
+    margin-left: 32px;
+    color: aliceblue;
+    text-align: center;
+
+}
+.box3{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    margin-top: -43px;
+    margin-left: 73px;
+    color: aliceblue;
+    text-align: center;
+
+}
+.box4{
+    height: 40px;
+    width: 42px;
+    border: 1px solid white;
+    margin-top: -40px;
+    margin-left: 114px;
+    color: aliceblue;
+    text-align: center;
+
+}
+.box5{
+    height: 40px;
+    width: 42px;
+    border: 1px solid white;
+    margin-top: -42px;
+    margin-left: 157px;
+    color: aliceblue;
+    text-align: center;
+
+}
+.circle{
+    height: 20px;
+    width: 20px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-top: -30px;
+    margin-left: 400px;
+    background-color: red;
+}
+.btn2{
+    height: 30px;
+    width: 70px;
+    border: 1px solid grey ;
+    border-radius: 5px;
+    background-color: red;
+    margin-top: -30px;
+    margin-left: 800px;
+    text-align: center;
+}
+
+.first{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    margin-top: -35px;
+    margin-left:930px ;
+    color: antiquewhite;
+    border-radius: 5px ;
+    text-align: center;
+}
+.second{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    margin-top: -40px;
+    margin-left:1030px ;
+    color: antiquewhite;
+    border-radius: 5px ;
+    text-align: center;
+}
+.third{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    margin-top: -43px;
+    margin-left:1130px ;
+    color: antiquewhite;
+    border-radius: 5px ;
+    text-align: center;  
+}
+.forth{
+    height: 40px;
+    width: 40px;
+    border: 1px solid white;
+    margin-top: -43px;
+    margin-left:1230px ;
+    color: antiquewhite;
+    border-radius: 5px ;
+    text-align: center
+}
